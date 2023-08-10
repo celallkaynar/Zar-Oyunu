@@ -1,0 +1,17 @@
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\bin\Debug\net6.0-windows\OrnekZarlar.exe
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\bin\Debug\net6.0-windows\OrnekZarlar.deps.json
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\bin\Debug\net6.0-windows\OrnekZarlar.runtimeconfig.json
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\bin\Debug\net6.0-windows\OrnekZarlar.dll
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\bin\Debug\net6.0-windows\OrnekZarlar.pdb
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.csproj.AssemblyReference.cache
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.Form1.resources
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.csproj.GenerateResource.cache
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.AssemblyInfoInputs.cache
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.AssemblyInfo.cs
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.csproj.CoreCompileInputs.cache
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.dll
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\refint\OrnekZarlar.dll
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.pdb
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\OrnekZarlar.genruntimeconfig.cache
+D:\Projeler Visual Studio\form\OrnekZarlar\OrnekZarlar\OrnekZarlar\obj\Debug\net6.0-windows\ref\OrnekZarlar.dll
